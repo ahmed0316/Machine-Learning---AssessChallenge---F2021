@@ -1,8 +1,7 @@
 Machine Learning - AssessChallenge - F2021
-Prepr
+Prepr, November 20th, 2020
+By Ahmed Mohamed
 
 NOTE: See task one and two branches for specific task files.
 
-November 20th, 2020
-
-By Ahmed Mohamed
+Video Demonstration: https://www.youtube.com/watch?v=aFCttAUZVgU
