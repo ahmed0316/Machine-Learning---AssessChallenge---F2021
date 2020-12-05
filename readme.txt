@@ -1,4 +1,4 @@
-Machine Learning - AssessChallenge - F2021
+Machine Learning - AssessChallenge - F2021 (2 Day Challenge)
 Prepr, November 20th, 2020
 By Ahmed Mohamed
 
